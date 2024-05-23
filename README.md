@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">Italian Data enthusiast and addicted for 4 years.</h3>
+<h3 align="center">Italian Data Engineer, enthusiast and addicted for 4 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feder07&label=Profile%20views&color=0e75b6&style=flat" alt="feder07" /> </p>
 
